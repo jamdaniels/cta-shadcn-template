@@ -8,7 +8,7 @@ export function Header() {
       <div>
         <Link to="/">
           <Button variant="ghost" className="font-bold">
-            <Banana className="size-6" /> Bananas
+            <Banana className="size-5" /> Bananas
           </Button>
         </Link>
       </div>
